@@ -10,7 +10,7 @@ Lista de salada de fruta
   <bady>
     <h1 style="text-align: center"> Lista de salada de frutas natural</h1>
 <h2> INGREDIENTES</h2>
-    <p>banana</p>
+    <p>banana</p> <img src="https://www.infoescola.com/wp-content/uploads/2010/04/banana_600797891.jpg" width=150 height=150">
     <p>maçã</p> 
     <p>mamão</p>
     <p>melão</p>
