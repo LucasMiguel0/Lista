@@ -1,10 +1,12 @@
-# Lista
-Lista de salada de fruta
+
+
 <!DOCTYPE.html>
 <html lang="PT-BR">
   <head>
   <meta charset="UTF-8">
+    
   <title>Salada de frutas</title>
+    
  </head>
   
   <bady>
@@ -18,9 +20,10 @@ Lista de salada de fruta
     <p>abacaxi</p> <img src="https://www.quitandatomio.com.br/upload/beneficios-do-abacaxi-perola-para-a-saude.jpg" width=130 height=150">
     <p>laranja</p> <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Orange-Fruit-Pieces.jpg/800px-Orange-Fruit-Pieces.jpg" width=180 height=150">
     
-    <body>
-    
-    <h3>Modo de fazer</h3>
-    <p><em>Descascar e picar em pedaços pequenos, cada fruta.</em></p>
+     <h3> Modo de fazer</h3>
+    <h4> <p><em>Descascar e picar em pedaços pequenos, cada fruta.</em></p>
     <p><strong>Espremer a laranja e misturar tudo.</strong></p>
-    </body>
+    </h4>
+
+    
+   
