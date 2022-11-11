@@ -11,7 +11,7 @@ Lista de salada de fruta
     <h1 style="text-align: center"> Lista de salada de frutas natural</h1>
 <h2> INGREDIENTES</h2>
     <p>banana</p> <img src="https://www.infoescola.com/wp-content/uploads/2010/04/banana_600797891.jpg" width=180 height=150">
-    <p>maçã</p> 
+    <p>maçã</p> <img src="https://supremaessencias.com.br/wp-content/uploads/2021/12/macavermelha1.jpg" width=180 height=150">
     <p>mamão</p>
     <p>melão</p>
     <p>manga</p>
