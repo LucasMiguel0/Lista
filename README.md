@@ -20,10 +20,10 @@
     <p>abacaxi</p> <img src="https://www.quitandatomio.com.br/upload/beneficios-do-abacaxi-perola-para-a-saude.jpg" width=130 height=150">
     <p>laranja</p> <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Orange-Fruit-Pieces.jpg/800px-Orange-Fruit-Pieces.jpg" width=180 height=150">
     
-     <h3> Modo de fazer</h3>
-    <h4> <p><em>Descascar e picar em pedaços pequenos, cada fruta.</em></p>
+     <h3>Modo de fazer</h3>
+    <p><em>Descascar e picar em pedaços pequenos, cada fruta.</em></p>
     <p><strong>Espremer a laranja e misturar tudo.</strong></p>
-    </h4>
+    </bady>
 
     
    
